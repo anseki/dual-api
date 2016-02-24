@@ -1,0 +1,30 @@
+{
+  "name": "dual-api",
+  "version": "0.0.1",
+  "title": "dualAPI",
+  "description": "Make your module implement dual APIs, callback API and thenable (Promise) API.",
+  "keywords": [
+    "dual",
+    "api",
+    "callback",
+    "thenable",
+    "then",
+    "promise",
+    "resolve",
+    "reject"
+  ],
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "homepage": "https://github.com/anseki/dual-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/dual-api.git"
+  },
+  "bugs": "https://github.com/anseki/dual-api/issues",
+  "license": "MIT",
+  "author": {
+    "name": "anseki",
+    "url": "https://github.com/anseki"
+  }
+}
