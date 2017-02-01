@@ -1,5 +1,7 @@
 # dualAPI
 
+[![npm](https://img.shields.io/npm/v/dual-api.svg)](https://www.npmjs.com/package/dual-api) [![GitHub issues](https://img.shields.io/github/issues/anseki/dual-api.svg)](https://github.com/anseki/dual-api/issues) [![dependencies](https://img.shields.io/badge/dependencies-No%20dependency-brightgreen.svg)](package.json) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE-MIT)
+
 Make your module implement dual APIs.  
 When the method of your module is called, if a callback Function is appended to the arguments, the method works as callback API. Otherwise the method returns a thenable [`Promise`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) instance.
 
