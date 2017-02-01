@@ -2,7 +2,7 @@
  * dualAPI
  * https://github.com/anseki/dual-api
  *
- * Copyright (c) 2016 anseki
+ * Copyright (c) 2017 anseki
  * Licensed under the MIT license.
  */
 
