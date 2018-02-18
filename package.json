@@ -13,6 +13,11 @@
     "resolve",
     "reject"
   ],
+  "files": [
+    "index.js",
+    "bower.json",
+    "LICENSE-MIT"
+  ],
   "engines": {
     "node": ">= 0.12.0"
   },
