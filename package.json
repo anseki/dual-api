@@ -15,8 +15,7 @@
   ],
   "files": [
     "index.js",
-    "bower.json",
-    "LICENSE-MIT"
+    "bower.json"
   ],
   "engines": {
     "node": ">= 0.12.0"
